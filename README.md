@@ -27,6 +27,7 @@ Edge Layer optimized intermediate processing
 AI-based routing ensured effective load balancing and lower energy usage
 
 Applications:
+
 This framework is suitable for real-time IoT domains such as:
 Smart Cities (traffic monitoring, energy grids)
 Healthcare (remote patient monitoring)
